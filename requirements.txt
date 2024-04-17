@@ -1,8 +1,8 @@
 streamlit
 numpy
-opencv-python-headless
+opencv-python
 mediapipe
 scikit-image
 tensorflow
 Pillow
-cv2
+keras
