@@ -1,8 +1,8 @@
-streamlit==1.33.0
-numpy==1.26.4
-opencv-python-headless==4.9.0.80
-mediapipe==0.10.11
-scikit-image==0.23.1
-tensorflow==2.16.1
-Pillow==10.2.0
-keras==3.2.1
+streamlit
+numpy
+opencv-python
+mediapipe
+scikit-image
+tensorflow
+Pillow
+keras
