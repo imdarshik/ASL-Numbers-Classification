@@ -1,6 +1,6 @@
+opencv-python
 streamlit
 numpy
-opencv-python
 mediapipe
 scikit-image
 tensorflow
