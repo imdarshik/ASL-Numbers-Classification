@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python-headless
+mediapipe
+scikit-image
+tensorflow
+Pillow
+cv2
